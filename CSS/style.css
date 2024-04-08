@@ -1,0 +1,34 @@
+header {
+  background-color: rgb(218, 192, 243);
+  margin-top: 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.enlaces {
+  background-color: rgb(187, 185, 185);
+  padding: 5px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+footer {
+  background-color: rgb(143, 182, 143);
+}
+
+.redes {
+  text-align: center;
+}
+.derechos {
+  text-align: right;
+}
+
+.cuerpo {
+  background-image: url(https://previews.123rf.com/images/vitalily73/vitalily731706/vitalily73170600006/80059796-vegetales-frescos-fondo-colorido-de-los-veh%C3%ADculos-vegetales-saludables-surtido-de-verduras.jpg);
+}
+
+.imagen {
+  border-radius: 20px;
+}
