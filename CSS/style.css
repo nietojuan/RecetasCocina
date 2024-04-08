@@ -32,7 +32,8 @@ footer {
 }
 
 body {
-  background-image: url(https://previews.123rf.com/images/vitalily73/vitalily731706/vitalily73170600006/80059796-vegetales-frescos-fondo-colorido-de-los-veh%C3%ADculos-vegetales-saludables-surtido-de-verduras.jpg);
+  /*background-image: url(https://previews.123rf.com/images/vitalily73/vitalily731706/vitalily73170600006/80059796-vegetales-frescos-fondo-colorido-de-los-veh%C3%ADculos-vegetales-saludables-surtido-de-verduras.jpg);*/
+  background-color: beige;
   opacity: 75%;
 }
 
@@ -47,4 +48,7 @@ body {
   border-style: solid;
   border-radius: 5px;
   background-color: rgb(112, 165, 179);
+}
+img {
+  margin-left: 800px;
 }
